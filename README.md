@@ -1,5 +1,5 @@
-## Dr. Ozgur Kafali - Postdoctoral Researcher
-## Department of Computer Science - North Carolina State University
+### Dr. Ozgur Kafali - Postdoctoral Researcher
+### Department of Computer Science - North Carolina State University
 
 ![Image](https://ozgurkafali.github.io/polar.jpg)
 

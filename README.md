@@ -4,7 +4,7 @@
 [Personal homepage](http://mas.cmpe.boun.edu.tr/ozgur/)
 
 ## Courses
-[NCSU CSC 495.002 - Privacy](https://ozgurkafali.github.io/csc495)
+[NCSU CSC 495.002 - Privacy](https://ozgurkafali.github.io/courses/ncsu/csc495)
 
 ## Welcome to GitHub Pages
 

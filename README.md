@@ -7,5 +7,5 @@
 
 [CV](https://ozgurkafali.github.io/Kafali-CV.pdf)
 
-## Courses
-[NCSU CSC 495.002 - Privacy](https://ozgurkafali.github.io/courses/ncsu/csc495)
+## Courses Offered
+Fall 2017 - [NCSU CSC 495.002 - Privacy](https://ozgurkafali.github.io/courses/ncsu/csc495)

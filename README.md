@@ -1,3 +1,11 @@
+## Dr. Ozgur Kafali - Postdoctoral Researcher
+## Department of Computer Science - North Carolina State University
+
+[Personal homepage](http://mas.cmpe.boun.edu.tr/ozgur/)
+
+## Courses
+[NCSU CSC 495.002 - Privacy](ozgurkafali.github.io/courses/ncsu/csc495)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ozgurkafali/ozgurkafali.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

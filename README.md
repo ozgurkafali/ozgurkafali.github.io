@@ -1,4 +1,4 @@
-### Dr. Ozgur Kafali - Postdoctoral Researcher
+### Dr. Özgür Kafalı - Postdoctoral Researcher
 ### Department of Computer Science - North Carolina State University
 
 ![Image](https://ozgurkafali.github.io/polar.jpg)

@@ -2,6 +2,5 @@ theme: jekyll-theme-modernist
 title: Dr. Özgür Kafalı's Website
 description: Course materials
 
-show_downloads: false
-show_links: false
-
+header-links-active:
+  github: false
